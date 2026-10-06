@@ -1,5 +1,5 @@
 # docker-study
-docker pull ..
-docker rm
-docker rmi
+# docker pull - скачать образ
+# docker rm - удалить контейнер
+# docker rmi - удалить образ
 
