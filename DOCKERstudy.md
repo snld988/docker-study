@@ -20,3 +20,10 @@
 ## docker exec -it MyNginx /bin/bash
 ## docker system prune -a --volumes
 # часть 2 - управление портами
+## docker run -p 80:80 nginx
+## docker run -p 8080:80 nginx
+## netstat -tulpen
+## docker run -d --name web -p 80:80 nginx
+## sudo ss -ltnp | grep "80"
+## sudo systemctl stop httpd
+# sudo pkill httpd
