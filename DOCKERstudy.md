@@ -26,4 +26,4 @@
 ## docker run -d --name web -p 80:80 nginx
 ## sudo ss -ltnp | grep "80"
 ## sudo systemctl stop httpd
-# sudo pkill httpd
+## sudo pkill httpd
