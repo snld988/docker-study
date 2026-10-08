@@ -18,5 +18,5 @@
 ## docker run -d --rm --name MyNginx nginx
 ## docker logs e53...
 ## docker exec -it MyNginx /bin/bash
-# docker system prune -a --volumes
+## docker system prune -a --volumes
 # часть 2 - управление портами
